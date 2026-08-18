@@ -1,4 +1,4 @@
-# Big Walk Trainer — Mod Menu & Cheats for PC (v1.0.0)
+# Big Walk Trainer — Mod Menu & Cheats for PC (v1.0.2)
 
 **Big Walk trainer** with an in-game **mod menu** built for a game that has no combat in it: noclip and fly, infinite stamina, teleport to friend, unlock all tools and toys, proximity voice range control, free camera, time of day and weather. Works with the **Steam** release of House House's cooperative walker-talker. Open the overlay with `Insert`, flip a toggle, keep walking.
 
